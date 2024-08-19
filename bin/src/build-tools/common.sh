@@ -15,7 +15,7 @@
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #
 
-export DROIDIAN_RELEASE="${DROIDIAN_RELEASE:-next}"
+export DROIDIAN_RELEASE="${DROIDIAN_RELEASE:-current}"
 
 info() {
 	echo "I: $@"
